@@ -1,0 +1,12 @@
+User Perspective:
+
+1) Ease of use, UI similar to contacts application.
+2) Ability to add a field and a sub field.
+3) Quick search
+4) Nested flters
+5) Ability to add a field to a selection of records.(filter out result and add a field to only the filtered result)
+6) Ability of prioritized communication.
+7) Ability to export the data to excel (maybe like PLM)
+8) Ability to perform basic arithmatic like MS Excel (not important)
+9) Maintain history.
+10) Easy and adaptable UI.
